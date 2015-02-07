@@ -1,10 +1,10 @@
 #Ayuda CAIN
 
-###Introducción 
+##Introducción 
 
 El objetivo del proyecto CAIN es catalogar la música del usuario mediante el uso de 3 fuentes: los metadatos del propio archivo, las enciclopedias musicales o el propio usuario. La catalogación se realizará mediante la asignación de etiquetas, que serán editables por los usuarios con el objeto de mejorar el resultado final.
 
-###Funcionamiento
+##Funcionamiento
 
 El proyecto CAIN se divide en 2 aplicaciones:
 
